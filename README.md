@@ -7,6 +7,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 
-Projeto ainda em construção
+<h1>Projeto ainda em construção</h1>
 
 <img src="./assets/img/angular-project.png" alt="project" />
