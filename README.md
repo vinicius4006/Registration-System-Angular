@@ -9,4 +9,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 Projeto ainda em construção
 
-<img src='frontend/src/assets/img/angular-project.png' alt='project'>
+<img src='./assets/img/angular-project.png' alt='project'>
