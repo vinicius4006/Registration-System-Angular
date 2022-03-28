@@ -7,7 +7,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 
-<h1>Projeto ainda em construção</h1>
+<h1>Projeto Básico de Cadastro de Produtos</h1>
+<h2>Funcionalidades</h2>
+<ul>
+  <li>Criação</li>
+  <li>Exibição</li>
+  <li>Edição</li>
+  <li>Exclusão</li>
+</ul>
 
 <img src="./src/assets/img/angular-project.png" alt="project" />
 <img src="./src/assets/img/angular-project2.png" alt="project" />
+<img src="./src/assets/img/edit.png" alt="edit" />
+<img src="./src/assets/img/delete.png" alt="delete" />
