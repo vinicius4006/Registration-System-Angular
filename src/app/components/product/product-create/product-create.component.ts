@@ -12,7 +12,7 @@ export class ProductCreateComponent implements OnInit {
 
   product: Product = {
     name: '',
-    price: null || 0
+    price: 0
   }
 
   constructor(private productService: ProductService, private router: Router) { }
@@ -34,10 +34,5 @@ export class ProductCreateComponent implements OnInit {
     this.router.navigate(['/products'])
   }
 
-  deleteProduct(): void {
-    this.productService.delete(this.product).subscribe(() => {
-      this.productService.showMessage('Produto deletado!')
-      this.router.navigate(['/products'])
-    })
-  }
+
 }
