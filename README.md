@@ -16,7 +16,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
   <li>Exclusão</li>
 </ul>
 
+<img src="./src/assets/img/exibicao.png" alt="project" />
 <img src="./src/assets/img/angular-project.png" alt="project" />
-<img src="./src/assets/img/angular-project2.png" alt="project" />
 <img src="./src/assets/img/edit.png" alt="edit" />
 <img src="./src/assets/img/delete.png" alt="delete" />
